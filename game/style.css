@@ -1,0 +1,111 @@
+body {
+
+    /*background-size: cover;
+    background-position: center center;*/
+	font-family: 'Goudy Old Style';
+
+}
+
+/*Stuff below governs the start screen*/
+
+.titleContent {
+	margin: 10% auto;
+    text-align: center;
+    background-image: url("http://assets.rollingstone.com/assets/2015/media/205327/_original/1438811094/1035x694-HamiltonBway0050r-Lin-Manuel-Miranda-and-the-cast-of-Hamilton.jpg");
+    background-size: cover;
+    background-repeat:repeat;
+    background-position: center center;
+    font-family: 'Goudy Old Style';
+}
+
+.splashTitle {
+	color: #fff;
+    font-size: 8em;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 5px rgba(27, 25, 25, 0.74);
+}
+
+.button {
+	border: 5px solid #383838;
+    color: #383838;
+    padding: 10px 10px;
+    font-size: 1em;
+    text-decoration: none;
+    background-color: #abc;
+    box-shadow: 15px 15px 80px #555;
+}
+  a.button:hover {
+    background-color: #383838;
+    color: #abc;
+  }
+  #gogogo{
+    font-size:500%;
+  }
+
+
+
+/*Stuff below governs the Explore screen*/
+
+#exploreBody {
+    background-color:#D2B48C;
+	background-image: url("img/");
+	background-position: bottom center;
+    font-family:'Goudy Old Style';
+    font-size:20px;
+
+}
+#play{
+    font-size:200%;
+}
+.text{
+    border:clear;
+}
+#realdealBody{
+    background-repeat:repeat;
+    background-position:center top;
+
+}
+img {
+    position: absolute;
+    top: 0; bottom:0; left: 0; right:0;
+    margin: auto;
+}
+.question{
+    position: absolute;
+     height: px;
+    width: 400px;
+    margin: -100px 0 100px -200px;
+    top: 50%;
+    left: 50%;
+    padding:30px;
+    background-color:#d2b48c;
+    text-align:center;
+}
+.choiceleft{
+    position:absolute;
+    left:10px;
+    
+}
+.choicerigth{
+    position:absolute;
+    right:20px;
+}
+#q7 , #q9{
+height:250px;
+}
+.gameover{
+color:white;
+font-size:200%;
+}
+.cite{
+    font-size:100%;
+}
+
+#q8{
+    height:40px;
+}
+
+#q10{
+   height:; 
+}
+
