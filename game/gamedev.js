@@ -116,7 +116,7 @@ $("#c15").click(function(){
 $("#realdealBody").css("backgroundImage","url(http://assets.rollingstone.com/assets/2016/article/hamilton-cast-to-perform-on-grammys-via-satellite-20160203/226661/medium_rect/1454511931/720x405-Hamilton0044r.jpg)");
 $(".question").hide();
 $("#over5").show();
-$("#over2, #over3 , #over1 , #over4").hide();
+$("#over2, #over3 , #over1 , #over4 , #over6").hide();
  });
 $("#c16").click(function(){
 $("#realdealBody").css("backgroundImage","url(https://pbs.twimg.com/media/CUcA8-lWsAQABDo.jpg:large)");
@@ -124,7 +124,7 @@ $("#q1 , #q2 , #q3 , #q4 , #q5 , #q6, #q7, #q8 , #q9 , #q10, #q11 ").hide();
 $(".gameover").hide();
 $("#q12").show();
  });
-$("#c15").click(function(){
+$("#c18").click(function(){
 $("#realdealBody").css("backgroundImage","url(http://orig15.deviantart.net/7381/f/2009/144/f/b/game_over_screen_wallpaper_by_patryk_ludamage.jpg)");
 $(".question").hide();
 $("#over6").show();
