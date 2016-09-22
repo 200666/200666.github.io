@@ -1,0 +1,55 @@
+@import 'https://fonts.googleapis.com/css?family=Creepster';
+body{
+  cursor:url("https://33.media.tumblr.com/avatar_e3b30a50adad_128.png"), auto;
+}
+
+h1 {
+  font-family: Creepster;
+  text-allign: center;
+}
+
+#page{
+  width:
+}
+
+#textywexty {
+  border-style: solid;
+  background-color: #DFC13B;
+  margin: auto;
+  width: 13.5%;
+  border: 3px;
+  padding: 8px;
+}
+
+#listywisty {
+  margin: auto;
+  width: 8%;
+  border: 3px;
+  padding: 20px;
+  background-color: ;
+}
+
+#misty {
+  margin: auto;
+  width: 8%;
+  border: 3px;
+  padding: 10px;
+}
+
+li {
+  font-family: Creepster;
+  font-size:25px;
+}
+
+input[type="text"] {
+    cursor: text;
+}
+
+/*how to change the text field when focused/active*/
+/* input[type="text"]:focus {
+  border: 4px solid red;  
+} */
+
+#spok:hover {
+  cursor: pointer;
+}
