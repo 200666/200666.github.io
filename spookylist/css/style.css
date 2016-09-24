@@ -16,14 +16,14 @@ h1 {
   border-style: solid;
   background-color: #DFC13B;
   margin: auto;
-  width: 13.5%;
+  width: 20%;
   border: 3px;
   padding: 8px;
 }
 
 #listywisty {
   margin: auto;
-  width: 8%;
+  width: 20%;
   border: 3px;
   padding: 20px;
   background-color: ;
@@ -31,9 +31,9 @@ h1 {
 
 #misty {
   margin: auto;
-  width: 8%;
+  width: 23%;
   border: 3px;
-  padding: 10px;
+  padding: 7px;
 }
 
 li {
