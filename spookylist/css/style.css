@@ -1,11 +1,14 @@
 @import 'https://fonts.googleapis.com/css?family=Creepster';
 body{
- 
+ background-color:#ff8100;
+ border:black;
+ border-width: 20px;
 }
 
 h1 {
   font-family: Creepster;
   text-allign: center;
+
 }
 
 #page{
@@ -14,11 +17,15 @@ h1 {
 
 #textywexty {
   border-style: solid;
-  background-color: #DFC13B;
+  background-image: url("http://f.tqn.com/y/rubberstamping/1/S/m/e/-/-/pumpkin.png");
+  background-size: 300px;
   margin: auto;
   width: 20%;
   border: 3px;
   padding: 8px;
+  height:300px;
+  text-align:center;
+  
 }
 
 #listywisty {
@@ -34,6 +41,10 @@ h1 {
   width: 23%;
   border: 3px;
   padding: 7px;
+}
+#pumkin{
+  width:100px;
+  height:100px;
 }
 
 li {

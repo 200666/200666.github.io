@@ -38,5 +38,6 @@ $(document).ready(function() {
    $(this).fadeOut('slow');
 
  });
+ 
 
 }); //closing bracket for document.ready - DO NOT DELETE EVER
